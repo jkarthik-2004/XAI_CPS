@@ -1,0 +1,58 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+*.ipynb
+CPS_XAI (4).ipynb
+
+# Large data files
+*.csv
+KDDTrain1.csv
+KDDTest1.csv
+*.joblib
+test_data.joblib
+feature_info.joblib
+ids_model.joblib
+*.pkl
+*.h5
+
+# VS Code
+.vscode/
+
+# Streamlit
+.streamlit/
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+
+# Logs
+logs/
+*.log
+
+# OS specific
+.DS_Store
+Thumbs.db 
